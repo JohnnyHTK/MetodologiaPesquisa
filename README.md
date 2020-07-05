@@ -20,14 +20,14 @@ Transcrição de áudio para o fomato de texto.
  
  A inteligência artificial (IA) é desenvolvida com o objetivo de entender, pensar e se comportar como seres humanos e isso tem se aprimorado cada vez mais. Porém há 25 anos estão realizando pesquisas no campo da ciência para desenvolverem uma machine learning capaz de reconhecer de forma precisa a linguagem humana. Hoje em dia temos os chamados assistentes pessoais, que podem interpretar, reconhecer o que está sendo perguntado e retornar uma resposta.Porém uma inteligência artifical ainda não é capaz de produzir transcrição tão longa da fala humana com o mesmo nível de precisão que um ser humano possui.
  
- A Natural Laguage Processing ( Processamento de linguagem Natural ) é uma disciplina que estuda o uso de aprendizado de máquina e inteligência artificial para criar um computador que possa entender e responder à linguagem humana.Para isso, é necessário o desenvolvimento de modelos de linguagem que conflitam com as verdadeiros tons da fala humana.
+ A Natural Laguage Processing ( Processamento de linguagem Natural ) é uma disciplina que estuda o uso de aprendizado de máquina e inteligência artificial para criar um computador que possa entender e responder à linguagem humana. Para isso, é necessário o desenvolvimento de modelos de linguagem que conflitam com as verdadeiros tons da fala humana.
  
 
  # Proposta de Solução
 
 3- Justifique por que esta solução que você está é mais adequada que outras?
 
-R: Porque será um all-in-one, tudo o que será necessário para o trabalho estará nesse sistema.
+
 
  # 4: Referências
 
