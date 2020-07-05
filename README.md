@@ -8,11 +8,11 @@ RA: 1460281823027
 
  
 
- # 1: Problema
+ # 1 - Problema
 
 Transcrição de áudio para o fomato de texto.
 
- # 2: Motivação
+ # 2 - Motivação
  
  O áudio é um meio de comunicação utilizado desde a época dos homens das cavernas, através de gritos e grunidos. Mas não é utilizada apenas pela espécie humana, muitos seres vivos emitem som para poderem se comunicar, identificar ou até mesmo se reproduzir com outros seres vivos. Diferentemente dos animais, nós desenvolvemos várias técnicas de comunicação como escritas, linguagem corporal, liguagem mediana e a mais eficiente delas a liguagem verbal. No início eram apenas ruídos e símbolos, com o passar dos anos foi se desenvolvendo regras para manter um padrão e facilitar o entendimento.
  
@@ -23,13 +23,13 @@ Transcrição de áudio para o fomato de texto.
  A Natural Laguage Processing ( Processamento de linguagem Natural ) é uma disciplina que estuda o uso de aprendizado de máquina e inteligência artificial para criar um computador que possa entender e responder à linguagem humana. Para isso, é necessário o desenvolvimento de modelos de linguagem que conflitam com as verdadeiros tons da fala humana.
  
 
- # Proposta de Solução
+ # 3 - Proposta de Solução
 
 3- Justifique por que esta solução que você está é mais adequada que outras?
 
 
 
- # 4: Referências
+ # 4 - Referências
 
 https://www.educamundo.com.br/blog/comunicacao-linguagem-curso-online
 
