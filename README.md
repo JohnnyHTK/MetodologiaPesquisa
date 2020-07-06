@@ -28,16 +28,19 @@ Transcrição de áudio para o fomato de texto.
 
 Devido a grande dificuldade no desenvolvimento de machine learning capazes de realizar o processamento do áudio em tempo real, existe poucas empresas que possuem uma aplicação nesse nível, por ter um retorno muito baixo e um investimento muito elevado. Para uma IA realizar esse processo com poucos erros é necessário treina-la com milhares de informações para conseguir o mínimo de eficiência.
 
-Uma inteligência artificial que realize a transcrição em tempo real possui um custo muito elevado e também poucas empresas possuem uma máquina que consiga fazer essa tarefa sem grandes erros.
-
-A inteligência artificial será desenvolvida na liguagem python com algumas bibliotecas que facilitam o desenvolvimento de machine learning, será treinada com vários áudios e sotaques diferentes, conversas diferentes, com ruídos
-
+O desenvolvimento da machine learning será desenvolvido em duas etapas principais, a primeira na programação e testes com bibliotecas e recursos que facilitam a aprendizagem de máquina, o segundo um longo treinamento em diversas situações diferentes, desde conversas em grupos até sons diferentes para identificação do que é uma fala humana e o que não é, terá por volta de mais de 1000 horas de áudio para se tornar eficiente e em tempo real.
 
 
  # 4 - Referências
+ 
+HANK LIAO; ERIK MCDERMOTT; ANDREW SENIOR, LARGE SCALE DEEP NEURAL NETWORK ACOUSTIC MODELING WITH SEMI-SUPERVISED TRAINING DATA FOR YOUTUBE VIDEO TRANSCRIPTION. Disponível em https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41403.pdf 
 
-https://www.educamundo.com.br/blog/comunicacao-linguagem-curso-online
+ORIGEM DA FALA: HISTÓRIA E EVOLUÇÃO DA LINGUAGEM E COMUNICAÇÃO. Disponível em https://www.educamundo.com.br/blog/comunicacao-linguagem-curso-online
 
-https://www.mcgowantranscriptions.co.uk/machine-learning-ai-transcription/
+THE LIMITATIONS OF MACHINE LEARNING FOR TRANSCRIPTION. Disponível em https://www.mcgowantranscriptions.co.uk/machine-learning-ai-transcription/
 
-https://trint.com/resources/9wk9x0ky/how-does-automated-transcription-work
+HOW DOES AUTOMATED TRANSCRIPTION WORK?. Disponível em https://trint.com/resources/9wk9x0ky/how-does-automated-transcription-work
+
+ANNIE SCHWEIKERT, AUDIOVISUAL ALGORITHMS. Disponível em https://www.nyu.edu/tisch/preservation/program/student_work/2019spring/19s_thesis_Schweikert.pdf
+
+MORFI, VERONICA & STOWELL, DAN. (2018). DEEP LEARNING FOR AUDIO EVENT DETECTION AND TAGGING ON LOW-RESOURCE DATASETS. APPLIED SCIENCES. 8. 1397. 10.3390/app8081397. 
