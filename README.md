@@ -26,9 +26,11 @@ Transcrição de áudio para o fomato de texto.
 
  # 3 - Proposta de Solução
 
-3- Justifique por que esta solução que você está é mais adequada que outras?
+Devido a grande dificuldade no desenvolvimento de machine learning capazes de realizar o processamento do áudio em tempo real, existe poucas empresas que possuem uma aplicação nesse nível, por ter um retorno muito baixo e um investimento muito elevado. Para uma IA realizar esse processo com poucos erros é necessário treina-la com milhares de informações para conseguir o mínimo de eficiência.
 
+Uma inteligência artificial que realize a transcrição em tempo real possui um custo muito elevado e também poucas empresas possuem uma máquina que consiga fazer essa tarefa sem grandes erros.
 
+A inteligência artificial será desenvolvida na liguagem python com algumas bibliotecas que facilitam o desenvolvimento de machine learning, será treinada com vários áudios e sotaques diferentes, conversas diferentes, com ruídos
 
 
 
@@ -37,3 +39,5 @@ Transcrição de áudio para o fomato de texto.
 https://www.educamundo.com.br/blog/comunicacao-linguagem-curso-online
 
 https://www.mcgowantranscriptions.co.uk/machine-learning-ai-transcription/
+
+https://trint.com/resources/9wk9x0ky/how-does-automated-transcription-work
