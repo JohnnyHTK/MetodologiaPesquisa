@@ -33,14 +33,14 @@ O desenvolvimento da machine learning será desenvolvido em duas etapas principa
 
  # 4 - Referências
  
-HANK LIAO; ERIK MCDERMOTT; ANDREW SENIOR, LARGE SCALE DEEP NEURAL NETWORK ACOUSTIC MODELING WITH SEMI-SUPERVISED TRAINING DATA FOR YOUTUBE VIDEO TRANSCRIPTION. Disponível em https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41403.pdf 
+HANK LIAO; ERIK MCDERMOTT; ANDREW SENIOR, LARGE SCALE DEEP NEURAL NETWORK ACOUSTIC MODELING WITH SEMI-SUPERVISED TRAINING DATA FOR YOUTUBE VIDEO TRANSCRIPTION. Disponível em https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41403.pdf Acesso em 05/07/2020
 
-ORIGEM DA FALA: HISTÓRIA E EVOLUÇÃO DA LINGUAGEM E COMUNICAÇÃO. Disponível em https://www.educamundo.com.br/blog/comunicacao-linguagem-curso-online
+ORIGEM DA FALA: HISTÓRIA E EVOLUÇÃO DA LINGUAGEM E COMUNICAÇÃO. Disponível em https://www.educamundo.com.br/blog/comunicacao-linguagem-curso-online Acesso em 03/07/2020
 
-THE LIMITATIONS OF MACHINE LEARNING FOR TRANSCRIPTION. Disponível em https://www.mcgowantranscriptions.co.uk/machine-learning-ai-transcription/
+THE LIMITATIONS OF MACHINE LEARNING FOR TRANSCRIPTION. Disponível em https://www.mcgowantranscriptions.co.uk/machine-learning-ai-transcription/ Acesso em 05/06/2020
 
-HOW DOES AUTOMATED TRANSCRIPTION WORK?. Disponível em https://trint.com/resources/9wk9x0ky/how-does-automated-transcription-work
+HOW DOES AUTOMATED TRANSCRIPTION WORK?. Disponível em https://trint.com/resources/9wk9x0ky/how-does-automated-transcription-workAcesso Acesso em 20/05/2020
 
-ANNIE SCHWEIKERT, AUDIOVISUAL ALGORITHMS. Disponível em https://www.nyu.edu/tisch/preservation/program/student_work/2019spring/19s_thesis_Schweikert.pdf
+ANNIE SCHWEIKERT, AUDIOVISUAL ALGORITHMS. Disponível em https://www.nyu.edu/tisch/preservation/program/student_work/2019spring/19s_thesis_Schweikert.pdf Acesso em 13/05/2020
 
 MORFI, VERONICA & STOWELL, DAN. (2018). DEEP LEARNING FOR AUDIO EVENT DETECTION AND TAGGING ON LOW-RESOURCE DATASETS. APPLIED SCIENCES. 8. 1397. 10.3390/app8081397. 
